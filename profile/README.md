@@ -1,3 +1,4 @@
+<img src="./banner.png" alt="ZeroToOne Banner" style="width:100%; border-radius: 12px;" />
 # ZeroToOne
 
 **We help visionaries turn raw ideas into real, working products — designed to impress, built to scale, and ready to launch.**
