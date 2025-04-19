@@ -1,4 +1,5 @@
 <img src="./banner.png" alt="ZeroToOne Banner" style="width:100%; border-radius: 12px;" />
+
 # ZeroToOne
 
 **We help visionaries turn raw ideas into real, working products — designed to impress, built to scale, and ready to launch.**
@@ -22,6 +23,8 @@ We exist to bridge the gap between idea and execution. Whether it's the first co
 | [`motion-utils`](https://github.com/ZeroToOne/motion-utils) | Reusable motion components and animation helpers powered by Framer Motion | `WIP` |
 | [`zero-to-mvp`](https://github.com/ZeroToOne/zero-to-mvp) | Starter kit and checklist for launching a SaaS MVP in 60 days — includes lead magnet downloads, landing page, and email funnel | `READY` |
 | [`zero-to-one-mvp-ui-kit`](https://github.com/ZeroToOne/zero-to-one-mvp-ui-kit) | **MVP-ready React libraries** — includes component kit, onboarding wizard, and styled PDF preview | `NEW` |
+| [`zero-to-one-project-starter`](https://github.com/ZeroToOne/zero-to-one-project-starter) | **Full-stack SaaS boilerplate** — includes Next.js, Tailwind, dual auth (Clerk + NextAuth), Stripe billing, Resend onboarding emails, and UI Kit integration | `LAUNCH-READY` |
+| [`zero_to_one_ui`](https://github.com/ZeroToOne/zero_to_one_ui) | **Ruby gem with ViewComponents** — Hero, CTA, Checklist, Tailwind, Turbo-ready, and previewable via a mounted `/zero_to_one_ui` route | `PUBLISHABLE` |
 
 ---
 
