@@ -20,20 +20,22 @@ We exist to bridge the gap between idea and execution. Whether it's the first co
 | [`davinci`](https://github.com/ZeroToOne/davinci) | A modern inspection and reporting platform with custom PDF exports, annotation tools, and dynamic form builders | `IN USE` |
 | [`motion-utils`](https://github.com/ZeroToOne/motion-utils) | Reusable motion components and animation helpers powered by Framer Motion | `WIP` |
 | [`zero-to-mvp`](https://github.com/ZeroToOne/zero-to-mvp) | Starter kit and checklist for launching a SaaS MVP in 60 days — includes lead magnet downloads, landing page, and email funnel | `READY` |
+| [`zero-to-one-mvp-ui-kit`](https://github.com/ZeroToOne/zero-to-one-mvp-ui-kit) | **MVP-ready React libraries** — includes component kit, onboarding wizard, and styled PDF preview | `NEW` |
 
 ---
 
 ## How We Work
 
-- **Speed Meets Substance**: We move fast, but never cut corners.
-- **Modular by Default**: Every component is designed for reuse and clarity.
+- **Speed Meets Substance**: We move fast, but never cut corners.  
+- **Modular by Default**: Every component is designed for reuse and clarity.  
 - **WOW Moments Matter**: Our products don’t just work — they impress.
 
 ---
 
 ## Technologies We Love
 
-`Ruby on Rails` · `TailwindCSS` · `StimulusJS` · `Framer Motion` · `Next.js` · `TypeScript` · `Stripe` · `Grover` · `SVG Animation` · `Turbo`
+`Ruby on Rails` · `TailwindCSS` · `StimulusJS` · `Framer Motion` · `Next.js`  
+`TypeScript` · `Stripe` · `Grover` · `SVG Animation` · `Turbo`
 
 ---
 
@@ -41,9 +43,9 @@ We exist to bridge the gap between idea and execution. Whether it's the first co
 
 If you're a founder, builder, or curious dev, feel free to:
 
-- Fork our starter kits and tools
-- Drop feedback via GitHub Issues
-- Watch our main repos for updates
+- Fork our starter kits and tools  
+- Drop feedback via GitHub Issues  
+- Watch our main repos for updates  
 - Join the waitlist for early access tools (coming soon)
 
 ---
@@ -60,9 +62,9 @@ If you're a founder, builder, or curious dev, feel free to:
 
 ## Featured Components
 
-- `<ProductBuildSimulator />` – Scroll-activated product mock builder with confetti and toast logic
-- `<ComparePlansTable />` – Swipeable mobile-first pricing table with hover badges and popovers
-- `<FloatingCTA />` – Sticky action button with scroll-trigger logic
+- `<ProductBuildSimulator />` – Scroll-activated product mock builder with confetti and toast logic  
+- `<ComparePlansTable />` – Swipeable mobile-first pricing table with hover badges and popovers  
+- `<FloatingCTA />` – Sticky action button with scroll-trigger logic  
 - `<WhatYouGet />` – Animated phase cards with expandable details
 
 > Want a full demo? Visit [zerotoone.so](https://zerotoone.so)
