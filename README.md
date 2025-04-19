@@ -1,3 +1,4 @@
+![ZeroToOne Banner](./banner.png)
 # ZeroToOne
 
 **We help visionaries turn raw ideas into real, working products — designed to impress, built to scale, and ready to launch.**
